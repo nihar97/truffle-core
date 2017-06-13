@@ -26,7 +26,7 @@
     "truffle-artifactor": "~2.1.4",
     "truffle-compile": "~2.0.3",
     "truffle-config": "~1.0.0",
-    "truffle-contract": "~2.0.0",
+    "truffle-contract": "ssh+git://git@github.com:simondlr/truffle-contract.git#patch-1",
     "truffle-contract-sources": "~0.0.1",
     "truffle-deployer": "~1.0.0",
     "truffle-error": "~0.0.2",
